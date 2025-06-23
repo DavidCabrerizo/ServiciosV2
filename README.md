@@ -45,18 +45,18 @@
 ## ✍️ Autor
 
 **David Cabrerizo**
-🔗 [cannabis24h.com](https://www.cannabis24h.com)
-📧 [contacto@cannabis24h.com](mailto:contacto@cannabis24h.com) (o el correo que prefieras)
+🔗 visualproductor@gmail.com
 
 ---
 
 ## 📸 Captura (opcional)
 
 > Puedes subir una captura de pantalla del sitio y añadirla así:
+>
+> ![image](https://github.com/user-attachments/assets/440592b3-b9b8-481f-9033-56ec47bb27fa)
 
-```markdown
-![Vista previa](img/preview.png)
-```
+
+
 
 ---
 
